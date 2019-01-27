@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Incometax calculator</string>
+    <string name="tax_calculator">Tax calculator</string>
+    <string name="individual">Individual</string>
+    <string name="senior">Senior</string>
+    <string name="super_senior">Super Senior</string>
+    <string name="enter_your_annual_income">Enter your Annual income</string>
+    <string name="calculate_tax">Calculate tax</string>
+</resources>
